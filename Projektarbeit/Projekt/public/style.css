@@ -1,0 +1,31 @@
+*{
+    background-color:bisque;
+    color: black;
+}
+header{
+    padding:50px;
+    margin:-8px;
+    margin-bottom:20px;
+    text-align:center;
+    border-bottom-left-radius: 50% 50%;
+    border-bottom-right-radius: 50% 50%;
+    background-position:center;
+    background-image:url("Flieger.jpg");
+    height:200px;
+    background-position:100% 61%;
+    background-size:100%;
+}
+.title{
+    position:absolute;
+    padding:5px;
+    text-align: "center";
+    font-size: 50px;
+    border: 3px solid tan;
+    background-color:bisque;
+    z-index: 0;
+    left: 43%;
+    top: 21%;
+}
+.titlebar{
+    text-align: "center";
+}

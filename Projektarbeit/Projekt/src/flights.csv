@@ -1,0 +1,3 @@
+id;airport_departure;airport_arrival;date;time_departure;time_arrival;iata_code_departure;iata_code_arrival;seats;seats_taken
+12345;Zürich;Basel;06.01.2023;15:00;15:30;ZRH;BSL;100;58
+17845;Basel;Istanbul;06.01.2023;17:30;22:30;BSL;IST;150;127
